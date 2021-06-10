@@ -1,0 +1,27 @@
+{
+  "name": "ready",
+  "version": "1.5.0",
+  "description": "A ready-to-use bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParliamoDiPC/ready.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "discord-bot",
+    "node-js",
+    "discord-js",
+    "discord-js-bot"
+  ],
+  "author": "ParliamoDiPC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ParliamoDiPC/ready/issues"
+  },
+  "homepage": "https://github.com/ParliamoDiPC/ready#readme"
+}
